@@ -394,7 +394,7 @@ body {
     position: absolute;
     width: 100px;
     height: 100px;
-    top: 280px;
+    top: 242px;
     left: 59%;
     transform: translateX(-50%);
     animation: num linear 10s
@@ -557,7 +557,7 @@ body {
 .fire2 {
     display: none;
     position: absolute;
-    top: 240px;
+    top: 280px;
     left: 142px;
     width: 50px;
     height: 50px;
@@ -572,7 +572,7 @@ body {
 .fire4 {
     display: none;
     position: absolute;
-    top: 240px;
+    top: 280px;
     right: 138px;
     width: 50px;
     height: 50px;
