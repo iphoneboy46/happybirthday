@@ -528,7 +528,7 @@ body {
     font-size: 50px;
     letter-spacing: 15px;
     color: #D61C4E;
-    animation: name-scale linear 5s ;
+   
 }
 
 @keyframes name-scale {
@@ -537,6 +537,7 @@ body {
     }
     100%{
         opacity: 1;
+
     }
 }
 
@@ -549,7 +550,7 @@ body {
     font-size: 40px;
     letter-spacing: 15px;
     color: #D61C4E;
-    animation: name-scale linear 5s ;
+    animation: cake-scale linear 5s;
     
 }
 

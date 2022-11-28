@@ -522,34 +522,25 @@ body {
 
 .name {
     text-align: center;
-    transform: translateY(-50%);
-    top: 95%;
+    top: 610px;
     position: absolute;
     font-size: 50px;
     letter-spacing: 15px;
     color: #D61C4E;
-    animation: name-scale linear 5s ;
-}
+    animation: cake-scale linear 5s;
 
-@keyframes name-scale {
-    0%{
-        opacity: 0;
-    }
-    100%{
-        opacity: 1;
-    }
 }
 
 
 .day {
     text-align: center;
     transform: translateY(-50%);
-    top: 79%;
+    top: 78%;
     position: absolute;
     font-size: 40px;
     letter-spacing: 15px;
     color: #D61C4E;
-    animation: name-scale linear 5s ;
+    animation: cake-scale linear 5s;
     
 }
 
