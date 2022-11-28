@@ -544,7 +544,7 @@ body {
 .day {
     text-align: center;
     transform: translateY(-50%);
-    top: 85%;
+    top: 79%;
     position: absolute;
     font-size: 40px;
     letter-spacing: 15px;
