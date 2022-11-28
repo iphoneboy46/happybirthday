@@ -667,7 +667,7 @@ body {
 
 .loichuc{
     color:white;
-    text-shadow: 0 0 10px #EDEDED;
+    text-shadow: 0 0 10px #DFDFDE;
     position:fixed;
     transform: translateY(-50%);
     top: 50%;
@@ -678,7 +678,6 @@ body {
     position: absolute;
     background-color: #FE83C6;
     font-size: 30px;
-    display: none;
 }
 
 .modal{
@@ -689,5 +688,4 @@ body {
     bottom: 0;
     background-color: rgba(0, 0, 0, 0.423);
     z-index: 40;
-    display: none;
 }
