@@ -197,8 +197,8 @@ body {
 
 .border-cake {
     z-index: 2;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
+    border-top-left-radius: ;
+    border-top-right-radius: ;
     position: absolute;
     top: 0;
     width: 100%;
@@ -383,7 +383,7 @@ body {
     top: 280px;
     left: 40%;
     transform: translateX(-50%);
-    animation: num linear 5s
+    animation: num linear 10s
 }
 
 
@@ -399,7 +399,7 @@ body {
     top: 280px;
     left: 59%;
     transform: translateX(-50%);
-    animation: num linear 5s
+    animation: num linear 10s
 }
 
 @keyframes num {

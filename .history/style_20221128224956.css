@@ -383,7 +383,7 @@ body {
     top: 280px;
     left: 40%;
     transform: translateX(-50%);
-    animation: num linear 5s
+    animation: num linear 10s
 }
 
 
@@ -399,7 +399,7 @@ body {
     top: 280px;
     left: 59%;
     transform: translateX(-50%);
-    animation: num linear 5s
+    animation: num linear 10s
 }
 
 @keyframes num {
