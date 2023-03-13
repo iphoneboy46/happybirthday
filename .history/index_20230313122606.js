@@ -11,14 +11,12 @@ const audioHpbd = document.querySelector(".audioHpbd");
 const loichuc = document.querySelector(".loichuc");
 const modal = document.querySelector(".modal");
 
-
+if(fire2.style.top === "36vh")
 
 batden.onclick = () => {
   moden.style.display = "none";
   audioHpbd.play();
 };
-
-
 
 btnThapnen.onclick = () => {
   btnThoinen.style.display = "flex";

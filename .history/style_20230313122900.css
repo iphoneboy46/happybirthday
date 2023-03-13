@@ -655,7 +655,7 @@ body {
         left: 0;
         user-select: none;
         background-color: #FFE15D;
-        animation: thapNen linear 25s;
+        animation: thapNen linear 20s;
         opacity: 1;
         font-family: 'Poppins', sans-serif;
         text-align: center;

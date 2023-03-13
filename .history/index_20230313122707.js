@@ -18,7 +18,9 @@ batden.onclick = () => {
   audioHpbd.play();
 };
 
-
+if(fire2.style.top === "36vh"){
+  btnThapnen.style.display = "none"
+}
 
 btnThapnen.onclick = () => {
   btnThoinen.style.display = "flex";
