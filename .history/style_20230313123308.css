@@ -451,7 +451,7 @@ body {
     .number4 {
         position: absolute;
         width: 70px;
-        height: 93px;
+        height: 90px;
         top: 36vh;
         left: 59%;
         transform: translateX(-50%);
@@ -633,7 +633,7 @@ body {
         top: 30vh;
         right: 34%;
         width: 50px;
-        height: 50px;
+        height: 55px;
     }
 
     .fire4 img {
