@@ -578,7 +578,7 @@ body {
         display: flex;
         column-gap: 0.6rem;
         justify-content: center;
-        top: 9rem;
+        top: 8.5rem;
         left: 50%;
         transform: translateX(-50%);
         height: auto;
@@ -633,9 +633,9 @@ body {
     .text-hbbd {
         transform: translateX(-50%);
         position: absolute;
-        top: 5.2rem;
+        top: 4.6rem;
         left: 50%;
-        width: 20rem;
+        width: 85%;
         height: auto;
         z-index: 10;
 
@@ -651,8 +651,8 @@ body {
 
     .bongbong1 {
         position: absolute;
-        width: 80px;
-        height: 80px;
+        width: 70px;
+        height: 70px;
         left: 0px;
         top: 0px;
 
@@ -684,8 +684,8 @@ body {
 
     .bongbong2 {
         position: absolute;
-        width: 80px;
-        height: 80px;
+        width: 70px;
+        height: 70px;
         right: 0px;
         top: 0px;
         animation: dungdua2 linear 5s infinite;
