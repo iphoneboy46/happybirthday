@@ -72,7 +72,7 @@ body {
         position: relative;
         overflow: hidden;
         width: 50%;
-        height: 5rem;
+        height: 20vw;
         background-color: #BAFFB4;
         border-top-left-radius: 1.2rem;
         border-top-right-radius: 1.2rem;
@@ -84,7 +84,7 @@ body {
         position: relative;
         overflow: hidden;
         width: 60%;
-        height: 6rem;
+        height: 25vw;
         background-color: #BAFFB4;
         border-top-left-radius: 1.2rem;
         border-top-right-radius: 1.2rem;
@@ -99,7 +99,7 @@ body {
         background-color: #BAFFB4;
         border-top-left-radius: 1.2rem;
         border-top-right-radius: 1.2rem;
-        margin-bottom: 4rem;
+        margin-bottom: 5rem;
     }
 
 
@@ -718,7 +718,7 @@ body {
         font-weight: 900;
         bottom: 4.2rem;
         position: absolute;
-        font-size: 2.4rem;
+        font-size: 3.2rem;
         letter-spacing: 15px;
         color: #000000;
         animation: name-scale linear 2s 9s forwards;
@@ -742,9 +742,9 @@ body {
 
     .day {
         text-align: center;
-        bottom: 12rem;
+        bottom: 13rem;
         position: absolute;
-        font-size: 1.6rem;
+        font-size: 2rem;
         letter-spacing: 15px;
         font-weight: 700;
         color: #000000;
