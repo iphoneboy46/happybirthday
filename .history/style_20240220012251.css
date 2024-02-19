@@ -41,11 +41,10 @@ body {
         width: 100%;
         background-color: #CFFDE1;
         /* background-color: black; */
-        height: 98vh;
+        height: 100vh;
         display: flex;
         justify-content: center;
         align-items: flex-end;
-        overflow: hidden;
 
     }
 
