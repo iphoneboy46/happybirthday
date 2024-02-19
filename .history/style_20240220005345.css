@@ -99,7 +99,7 @@ body {
         background-color: #BAFFB4;
         border-top-left-radius: 1.2rem;
         border-top-right-radius: 1.2rem;
-        margin-bottom: 8rem;
+        margin-bottom: 5rem;
     }
 
 
@@ -518,8 +518,7 @@ body {
         position: absolute;
         width: 3rem;
         height: 3rem;
-        top: -3.5rem;
-
+        top: -4.5rem;
         left: 44%;
         transform: translate(-50%,-100%);
         opacity: 0;
@@ -538,7 +537,7 @@ body {
         position: absolute;
         width: 3rem;
         height: 3rem;
-        top: -3.5rem;
+        top: -4.5rem;
         left: 55%;
         transform: translate(-50%,-100%);
         opacity: 0;
