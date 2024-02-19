@@ -72,7 +72,7 @@ body {
         position: relative;
         overflow: hidden;
         width: 50%;
-        height: 5.5rem;
+        height: 5rem;
         background-color: #BAFFB4;
         border-top-left-radius: 1.2rem;
         border-top-right-radius: 1.2rem;
@@ -84,7 +84,7 @@ body {
         position: relative;
         overflow: hidden;
         width: 60%;
-        height: 7rem;
+        height: 6rem;
         background-color: #BAFFB4;
         border-top-left-radius: 1.2rem;
         border-top-right-radius: 1.2rem;
@@ -107,7 +107,7 @@ body {
     .img-wavy {
         width: 100%;
         margin: auto;
-        height: 4.4rem;
+        height: 4rem;
 
     }
 
@@ -716,9 +716,9 @@ body {
     .name {
         text-align: center;
         font-weight: 900;
-        bottom: 0rem;
+        top: 50%;
         left: 50%;
-        transform: translateX(-50%);
+        transform: translate(-50%,-505);
         position: absolute;
         font-size: 2.4rem;
         letter-spacing: 15px;
@@ -744,14 +744,11 @@ body {
 
     .day {
         text-align: center;
-        bottom: 0rem;
-        left: 50%;
-        transform: translateX(-50%);
+        bottom: 12rem;
         position: absolute;
         font-size: 1.6rem;
         letter-spacing: 15px;
         font-weight: 700;
-        width: 100%;
         color: #000000;
         animation: name-scale linear 2s 7s forwards;
         clip-path: inset(0 100% 0 0);
