@@ -890,7 +890,7 @@ body {
 
     .loichuc {
         color: #000000;
-        text-shadow: 0 0 1rem #fff;
+        text-shadow: 0 0 10px #fff;
         position: fixed;
         font-family: 'Poppins', sans-serif;
 
