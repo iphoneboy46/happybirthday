@@ -41,7 +41,7 @@ body {
         width: 100%;
         background-color: #CFFDE1;
         /* background-color: black; */
-        height: 100vh;
+        height: 98vh;
         display: flex;
         justify-content: center;
         align-items: flex-end;
@@ -100,7 +100,7 @@ body {
         background-color: #BAFFB4;
         border-top-left-radius: 1.2rem;
         border-top-right-radius: 1.2rem;
-        margin-bottom: 0;
+        margin-bottom: 12vh;
     }
 
 
