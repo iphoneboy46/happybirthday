@@ -783,11 +783,11 @@ body {
     .fire2 {
         display: none;
         position: absolute;
-        top: -3rem;
+        top: -2.5rem;
         left: 50%;
         transform: translateX(-50%);
-        width: 50px;
-        height: 50px;
+        width: 40px;
+        height: 40px;
     }
 
     .fire2 img {
@@ -802,12 +802,12 @@ body {
     .fire4 {
         display: none;
         position: absolute;
-        top: -3rem;
+        top: -2.5rem;
         left: 65%;
         transform: translateX(-50%);
         
-        width: 50px;
-        height: 50px;
+        width: 40px;
+        height: 40px;
     }
 
     .fire4 img {
